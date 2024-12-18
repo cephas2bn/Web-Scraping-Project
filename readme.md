@@ -147,7 +147,7 @@ This project is licensed under the **MIT License**.
 
 ## **Contact**
 **Cephas Acquah Forson**  
-Email: [cephas@example.com](mailto:cephasfn@gmail.com)  
+Email: [cephasfn@gmail.com](mailto:cephasfn@gmail.com)  
 GitHub: [@cephas2bn](https://github.com/cephas2bn)  
 LinkedIn: [Cephas Acquah Forson](https://www.linkedin.com/in/cephasaforson/)
 
